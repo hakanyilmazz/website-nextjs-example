@@ -23,7 +23,6 @@ a {
 }
 
 .container {
-    background-color: rebeccapurple;
     width: 1536px;
     margin: auto;
     padding-left: 50px;
@@ -31,4 +30,5 @@ a {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
